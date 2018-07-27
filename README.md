@@ -1,6 +1,7 @@
 # monopoly_java
 
 -- EN --
+
 Destroy friendship while playing Monopoly against your friends! 
 All the mechanics of the original game are included (except mortgage). 
 
@@ -11,6 +12,7 @@ The code uses the MVC pattern and is object-oriented.
 Made in Java and Swing for the GUI.
 
 -- FR --
+
 Jouez avec vos amis au celébre jeu du Monopoly! 
 Toutes les mécaniques du jeu de base sont incluses (sauf hypothéquer). 
 
